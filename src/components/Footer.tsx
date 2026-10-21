@@ -29,7 +29,7 @@ function Footer() {
             </svg>
           </a>
           <p className="mt-5 md:mt-10 text-sm text-gray-brands">
-            ©2026 Medical Network. Todos los derechos reservados.
+            ©2026 Danlakelake. Todos los derechos reservados.
           </p>
         </div>
       </div>
